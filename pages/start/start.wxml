@@ -1,0 +1,11 @@
+<image class="background-image " src="../../images/timg1.jpg"></image>
+<view class="container">
+  <text class="timu">周公解梦</text>
+  <view class="img-box"><open-data type="userAvatarUrl"></open-data></view>
+  <view class="text-box">
+  <view class="motto">你好,<open-data type="userNickName"></open-data></view>
+    <button bindtap="startTap"class="journey-container">
+      <text class="journey">有缘人，开启解梦之旅</text>
+    </button>
+  </view>
+</view>
